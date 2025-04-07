@@ -177,12 +177,6 @@ Please open an issue for significant design changes to discuss the proposal firs
 
 ⸻
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-⸻
-
 References
 	1.	D. Guna Sherar et al., “Fake Profile Detection Using Deep Learning Algorithm,” IRJET, 2024.
 	2.	Chongyang Zhao et al., “Adversarial Example Detection for Deep Neural Networks: A Review,” IEEE DSC, 2023.
